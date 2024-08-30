@@ -1,7 +1,7 @@
 # Having some fun with some very rare "freetime" using React.js and BICEP files to create some Azure Apps using Cosmos DB. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Follow this to learn more [Bicep files in Azure subscription](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview?tabs=bicep).
+Follow this to learn more [Bicep files in Azure subscription](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/).
 
 ## Available Scripts
 
