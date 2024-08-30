@@ -1,4 +1,4 @@
-# Having some fun with spare freetime using React.js and BICEP files to create some Azure Apps using Cosmos DB. 
+# Having some fun with some very rare "freetime" using React.js and BICEP files to create some Azure Apps using Cosmos DB. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
